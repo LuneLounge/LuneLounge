@@ -224,7 +224,7 @@ html {
     max-width: 100%;
     height: auto;
   }
-  .coffee-box h3 {
+  .coffee-box h5 {
     margin-top: 20px;
     color: #404040;
     font-family: playfair display, serif;
@@ -234,6 +234,11 @@ html {
     color: #404040;
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
+
+  img.colored-svg {
+    filter: invert(66%) sepia(19%) saturate(238%) hue-rotate(359deg);
+  }
+  
 
 /* ################# Lune Section end ############## */
 
