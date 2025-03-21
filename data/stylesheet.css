@@ -1,0 +1,263 @@
+/* Font Styling */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Lora:wght@400;500&display=swap');
+
+body {
+    font-family: 'Lora', serif; /* Paragraph font */
+    font-size: 18px; /* Increase base font size slightly */
+    color: #1f1f1f; /* Slightly softer black for readability */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif; /* Title font */
+    font-weight: 700;
+    color: #181818; /* A warm dark color for a cozy feel */
+}
+
+
+/* Header section start */
+#header h3 {
+    font-family: 'Playfair Display', serif;
+    color: #3C2A21; /* Deep brown for a warm, elegant look */
+}
+
+#header p {
+    font-family: 'Lora', serif;
+    color: #A67C52; /* Soft gold-bronze to complement the background */
+}
+
+/* Background Styling */
+.header-section {
+    min-height: 100vh; /* Full screen height */
+    background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), 
+                url('../image/marble.png') no-repeat center center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    flex-direction: column; /* Stack items vertically */
+    font-family: 'Lora', serif; /* Elegant font */
+}
+
+/* Logo Styling */
+.logo {
+    width: auto; /* Keeps aspect ratio intact */
+    max-width: 30%; /* Adjusted for better proportion */
+    object-fit: contain; /* Prevent stretching */
+}
+
+/* Text Styling */
+h1, p, .lead {
+    font-family: 'Playfair Display', serif; /* Consistent font */
+    color: #3C2A21;
+}
+
+/* Tablet Size (max-width: 1024px) */
+@media (max-width: 1024px) {
+    .logo {
+        max-width: 50%;
+    }
+}
+
+/* Mobile Size (max-width: 768px) */
+@media (max-width: 768px) {
+    .logo {
+        max-width: 65%;
+    }
+    .header-section h3 {
+        font-size: 1.6rem;
+    }
+    .header-section p {
+        font-size: 1.2rem;
+    }
+}
+
+/* Small Mobile Size (max-width: 480px) */
+@media (max-width: 480px) {
+    .logo {
+        max-width: 75%;
+    }
+    .header-section h3 {
+        font-size: 1.3rem;
+    }
+    .header-section p {
+        font-size: 1rem;
+    }
+}
+/*Nav bar section start*/
+    /* Ensure navbar is placed under the header initially */
+    body {
+        padding-top: 0; /* Reset padding since navbar is below header */
+    }
+    
+    #navbar {
+        position: sticky;
+        top: 0;
+        width: 100%;
+        z-index: 1000;
+        transition: all 0.3s ease-in-out;
+    }
+    
+    .sticky-nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background: white;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    
+    .sticky {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        background-color: rgba(255, 255, 255, 0.9); /* Slight transparency */
+        backdrop-filter: blur(10px);
+    }
+    
+    /* Remove border from hamburger menu button */
+    .navbar-toggler {
+        border: none !important;
+        background: none !important;
+        padding: 0;
+    }
+    .navbar-toggler:focus, .navbar-toggler:active {
+        outline: none;
+        box-shadow: none;
+    }
+    
+    /* Add spacing between menu items on large screens */
+    @media (min-width: 992px) {
+        .navbar-nav .nav-item {
+            margin: 0 50px;
+        }
+    }
+    
+    /* Add bottom border to menu items on mobile */
+    @media (max-width: 991px) {
+        .navbar-nav .nav-item {
+            border-bottom: 1px solid #ddd;
+        }
+        .navbar-nav .nav-item:last-child {
+            border-bottom: none;
+        }
+    }
+/* ################# About section start ################ */
+#about {
+    padding-top: 80px; /* Adjust based on navbar height */
+}
+.about-section {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+}
+.section-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #2c3e50;
+}
+.sub-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #333;
+}
+.text-muted {
+    font-size: 1.1rem;
+}
+
+/* Smooth scrolling effect */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 991px) {
+    .text-muted {
+        text-align: center;
+    }
+    .sub-title {
+        text-align: center;
+    }
+    .row.align-items-center {
+        text-align: center;
+    }
+}
+
+/* ################# About section end ################ */
+
+/* ################# Video Section start ############## */
+.video-section {
+    position: relative;
+    width: 100%;
+    height: 150px;
+    max-height: 200px;
+    overflow: hidden;
+}
+.video-bg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+}
+.video-logo {
+    max-width: 100px;
+}
+.video-title {
+    font-family: 'Playfair Display', serif;
+    font-weight: 300;
+    text-align: center;
+    color: #cccccc;
+}
+.video-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    color: #cccccc;
+}
+/* ################# Video Section end ############## */
+
+/* ################# Lune Section start ############## */
+.coffee-box img {
+    max-width: 100%;
+    height: auto;
+  }
+  .coffee-box h3 {
+    margin-top: 20px;
+    color: #404040;
+    font-family: playfair display, serif;
+  }
+  .coffee-box p {
+    margin-top: 10px;
+    color: #404040;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+/* ################# Lune Section end ############## */
+
+/* ################# Footer Section start ############## */
+.footer {
+    background-color: #404040 !important; /* Ensures the color applies */
+    color: #333;
+    padding: 20px 0;
+}
+footer p {
+    color: #f7f3f1; /* Light gray text */
+    font-size: 14px;
+    margin: 0;
+}
+
+.social-icons a {
+    color: #b1b1b1;
+    font-size: 20px;
+    margin: 0 10px;
+    transition: color 0.3s ease-in-out;
+}
+
+.social-icons a:hover {
+    color: #d2691e; /* Coffee brown */
+}
+
+

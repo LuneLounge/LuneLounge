@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lune Lounge</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+    <!-- Bootstrap JS Bundle (Includes Popper.js) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="data/stylesheet.css">
+    <!--font-->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <!--Js script-->
+    <script src="data/script.js"></script>
+    <!-- Include Animate.css and wow.js libraries -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+    <!-- Font Awesome CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+
+
+
+</head>
+<body>
+
+    <!-- Header Section Start -->
+    <header id="header" class="header-section">
+        <div class="container text-center">
+            <img src="image/logo_bg_tran_remove.png" alt="Logo" class="logo img-fluid">
+            <br><br>
+            <h3 class="display-3 fw-bold" >Welcome to Lune Lounge</h3>
+            <p class="lead">Experience the best coffee & ambiance</p>
+        </div>
+    </header>
+    <!-- Header Section End -->
+
+    <!-- Navbar section start -->
+<!-- Navbar section start -->
+<nav id="navbar" class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+        <!-- Mobile Logo (Left) -->
+        <a class="navbar-brand mobile-logo d-lg-none" href="#header">
+            <img src="image/LL_tlogo.png" alt="Logo" style="height: 50px;">
+        </a>
+
+        <!-- Toggler Button for Mobile -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Navbar Menu Items -->
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav mx-auto align-items-center">
+                <li class="nav-item">
+                    <a class="nav-link active" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#about">About</a>
+                </li>
+                
+                <!-- Desktop Logo (Centered) -->
+                <li class="nav-item d-none d-lg-block">
+                    <a class="nav-link" href="#header">
+                        <img src="image/LL_tlogo.png" alt="Logo" style="height: 50px;">
+                    </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="#gallery">Gallery</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#contact">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<!-- Navbar end -->
+
+<!-- About Us Section Start -->
+<section id="about" class="about-section py-5">
+    <div class="container">
+        <!-- Section Title -->
+        <div class="text-center mb-5">
+            <br><br>
+            <h2 class="section-title">About Lune Lounge</h2><br>
+            <p class="text-muted">​Welcome to Lune Coffee Shop, where every cup tells a story. Nestled in a cozy corner of the city, Lune Coffee Shop is more than just a place to grab coffee it's a space to connect, unwind, and savor the art of brewing. We take pride in offering a curated selection of specialty coffees, delightful desserts, and a warm atmosphere that feels like home. At Lune, we believe that great coffee brings people together, sparking conversations and creating memories worth cherishing.</p><br>
+        </div>
+
+        <!-- Who We Are Section -->
+        <div class="row align-items-center mb-5">
+            <!-- Left: Text Content -->
+            <div class="col-lg-6" data-aos="fade-right">
+                <h3 class="sub-title">Who We Are</h3><br>
+                <p class="text-muted">Lune Lounge is more than just a coffee shop; it's a community hub designed for relaxation, creativity, and meaningful conversations. From our carefully curated coffee beans to our welcoming atmosphere, we strive to create an unforgettable experience.</p>
+            </div>
+            <!-- Right: Image -->
+            <div class="col-lg-6" data-aos="fade-left">
+                <img src="image/about1.jpg" alt="Who We Are" class="img-fluid rounded shadow">
+            </div>
+        </div>
+
+        <!-- Vision & Mission Section -->
+        <div class="row align-items-center mb-5 flex-lg-row-reverse">
+            <!-- Left: Text Content -->
+            <div class="col-lg-6" data-aos="fade-left">
+                <h3 class="sub-title">Our Vision & Mission</h3><br>
+                <p class="text-muted">We envision a space where coffee brings people together, where ideas flow freely, and where every visitor feels at home. Our goal is to redefine coffee culture by blending quality, creativity, and warmth.</p>
+                <p class="text-muted">Our mission is to provide high-quality, ethically sourced coffee while fostering a space for relaxation and inspiration. We are committed to sustainability, excellent service, and creating a welcoming environment for all.</p>
+            </div>
+            <!-- Right: Image -->
+            <div class="col-lg-6" data-aos="fade-right">
+                <img src="image/about2.jpg" alt="Vision & Mission" class="img-fluid rounded shadow">
+            </div>
+        </div>
+    </div>
+</section>
+<!-- About Us Section End -->
+
+<!-- Video Section Start -->
+<section class="video-section position-relative">
+    <div class="overlay position-absolute top-0 start-0 w-100 h-100 bg-dark opacity-50"></div>
+    <video class="video-bg w-100" playsinline autoplay muted loop>
+        <source src="video/coffee2.mp4" type="video/mp4">
+    </video>
+
+    <!-- Content Inside Video -->
+    <div class="container-fluid h-100 position-absolute top-50 start-50 translate-middle text-center text-white">
+        <div class="row justify-content-center align-items-center h-100">
+            <div class="col-12">
+                <!--<img src="image/mountain_tran.png" alt="Logo" class="video-logo img-fluid mb-3">-->
+                <h1 class="video-title">Lune Lounge</h1>
+                <p class="video-text">We use premium beans</p>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Video Section End -->
+
+
+  <!-- Lune Coffee Shop Section -->
+  <section class="coffee-shop-section py-5" style="background-color: #F7F3F1; color: #F7F3F1;">
+    <div class="container text-center">
+      <h2>LUNE COFFEE SHOP</h2>
+      <h6>– Your Cozy Corner –</h6>
+
+      <div class="row mt-5">
+        <!-- Freshly Brewed Box -->
+        <div class="col-md-4 coffee-box mb-4">
+          <img src="img/Freshly-Brewed.png" alt="Freshly Brewed Coffee">
+          <h3>FRESHLY BREWED</h3>
+          <p>Our coffee is freshly brewed with the finest beans sourced from around the world. Every cup is crafted with care to give you the perfect start to your day.</p>
+        </div>
+
+        <!-- Cozy Atmosphere Box -->
+        <div class="col-md-4 coffee-box mb-4">
+          <img src="img/Cozy-Atmosphere.png" alt="Cozy Atmosphere">
+          <h3>COZY ATMOSPHERE</h3>
+          <p>At Lune Coffee Shop, we create a welcoming and cozy environment where you can relax, work, or catch up with friends over a cup of coffee.</p>
+        </div>
+
+        <!-- Sustainable Sourcing Box -->
+        <div class="col-md-4 coffee-box mb-4">
+          <img src="img/Sustainable-Sourcing.png" alt="Sustainable Sourcing">
+          <h3>SUSTAINABLE SOURCING</h3>
+          <p>We are committed to sustainability by sourcing our coffee beans from ethical and eco-friendly farms. Enjoy your coffee knowing it supports a better future.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+<!-- Footer Section Start -->
+<footer class="footer bg-light text-center py-4">
+    <div class="container">
+        <p class="mb-2">&copy; 2025 Lune Coffee Shop. All rights reserved.</p>
+        <p class="mb-2">Follow Us</p>
+        <div class="social-icons">
+            <a href="#" class="me-3"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" class="me-3"><i class="fab fa-twitter"></i></a>
+            <a href="#" class="me-3"><i class="fab fa-instagram"></i></a>
+            <a href="#" class="me-3"><i class="fab fa-linkedin-in"></i></a>
+        </div>
+    </div>
+</footer>
+<!-- Footer Section End -->
+
+
+<!-- AOS Animation Library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+<script>
+    AOS.init({
+        duration: 1000,
+        once: true
+    });
+</script>
+</body>
+
+</html>
