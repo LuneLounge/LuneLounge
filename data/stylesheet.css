@@ -1,5 +1,6 @@
 /* Font Styling */
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Lora:wght@400;500&display=swap');
+ 
 
 body {
     font-family: 'Lora', serif; /* Paragraph font */
