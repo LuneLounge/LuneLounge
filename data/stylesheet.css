@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Logo Styling */
 .logo {
     width: auto; /* Keeps aspect ratio intact */
-    max-width: 30%; /* Adjusted for better proportion */
+    max-width: 25%; /* Adjusted for better proportion */
     object-fit: contain; /* Prevent stretching */
 }
 
