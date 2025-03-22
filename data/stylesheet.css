@@ -1,6 +1,27 @@
 /* Font Styling */
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Lora:wght@400;500&display=swap');
-
+/*small screen other area scrol fix*/
+html, body {
+    overflow-x: hidden; /* Prevent horizontal scroll */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+  }
+  * {
+    box-sizing: border-box; /* Prevents padding/margin from affecting width */
+  }
+  
+  img, video, .your-element-class {
+    max-width: 100%; /* Prevent images/videos from overflowing */
+    height: auto; /* Maintain aspect ratio */
+  }
+  @media only screen and (max-width: 768px) {
+    .your-element-class {
+      width: 100%; /* Adjust width to fit smaller screens */
+      margin: 0;   /* Remove any margin causing overflow */
+    }
+  }
+  
+  /*end*/  
 body {
     font-family: 'Lora', serif; /* Paragraph font */
     font-size: 18px; /* Increase base font size slightly */
