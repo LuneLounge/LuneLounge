@@ -7,18 +7,19 @@ body {
     font-size: 18px; /* Increase base font size slightly */
     color: #1f1f1f; /* Slightly softer black for readability */
 }
-
+/*
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Playfair Display', serif; /* Title font */
-    font-weight: 700;
-    color: #181818; /* A warm dark color for a cozy feel */
-}
+    font-family: 'Playfair Display', serif; /* Title font 
+    font-weight: 600;
+    color: #181818; /* A warm dark color for a cozy feel 
+}*/
 
 
 /* Header section start */
 #header h3 {
     font-family: 'Playfair Display', serif;
     color: #3C2A21; /* Deep brown for a warm, elegant look */
+
 }
 
 #header p {
@@ -30,7 +31,8 @@ h1, h2, h3, h4, h5, h6 {
 .header-section {
     min-height: 100vh; /* Full screen height */
     background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), 
-                url('../image/header_bg.webp') no-repeat center center/cover;
+                url('../image/header.webp') no-repeat center center/cover;
+
     display: flex;
     align-items: center;
     justify-content: center;
@@ -155,7 +157,7 @@ h1, p, .lead {
 .section-title {
     font-size: 2.5rem;
     font-weight: bold;
-    color: #2c3e50;
+    color: #404040;
 }
 .sub-title {
     font-size: 1.8rem;
@@ -205,7 +207,7 @@ html {
 }
 .video-logo {
     max-width: 100px;
-}
+}/*
 .video-title {
     font-family: 'Playfair Display', serif;
     font-weight: 300;
@@ -239,6 +241,11 @@ html {
   img.colored-svg {
     filter: invert(66%) sepia(19%) saturate(238%) hue-rotate(359deg);
   }
+  /* Ensure headings are also black */
+.coffee-shop-section h2,
+.coffee-shop-section h6 {
+    color: #404040; /* Override any inherited color */
+}
   
 
 /* ################# Lune Section end ############## */
@@ -262,8 +269,5 @@ footer p {
     transition: color 0.3s ease-in-out;
 }
 
-.social-icons a:hover {
-    color: #d2691e; /* Coffee brown */
-}
 
 
