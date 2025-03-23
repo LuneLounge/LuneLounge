@@ -269,5 +269,29 @@ footer p {
     transition: color 0.3s ease-in-out;
 }
 
+/* Maintain 4:3 Aspect Ratio */
+/* Gallery Item Wrapper */
+.gallery-item {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 4 / 3; /* Ensures a strict 4:3 ratio */
+    overflow: hidden;
+    border-radius: 8px; /* Optional rounded corners */
+}
+
+/* Images inside gallery */
+.gallery-img {
+    width: 100%;
+    height: 100%; /* Ensure the image takes up the full container */
+    object-fit: cover; /* Crop images to fit the 4:3 aspect */
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Hover effect */
+.gallery-item:hover .gallery-img {
+    transform: scale(1.05);
+}
+
+
 
 
