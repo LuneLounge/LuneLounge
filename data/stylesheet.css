@@ -270,20 +270,30 @@ footer p {
 }
 
 /* Maintain 4:3 Aspect Ratio */
-/* Gallery Item Wrapper */
+/* Gallery Item */
 .gallery-item {
     position: relative;
     width: 100%;
-    aspect-ratio: 4 / 3; /* Ensures a strict 4:3 ratio */
+    aspect-ratio: 4 / 3; /* Ensures a 4:3 aspect ratio */
     overflow: hidden;
-    border-radius: 8px; /* Optional rounded corners */
+    border-radius: 8px;
+}
+
+/* Lazy loading fade-in effect */
+.lazyload {
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.lazyloaded {
+    opacity: 1;
 }
 
 /* Images inside gallery */
 .gallery-img {
     width: 100%;
-    height: 100%; /* Ensure the image takes up the full container */
-    object-fit: cover; /* Crop images to fit the 4:3 aspect */
+    height: 100%;
+    object-fit: cover;
     transition: transform 0.3s ease-in-out;
 }
 
