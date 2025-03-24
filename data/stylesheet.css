@@ -281,23 +281,37 @@ html {
 /* ################# Lune Section end ############## */
 
 /* ################# Footer Section start ############## */
+/* Footer Styling */
 .footer {
     background-color: #404040 !important; /* Ensures the color applies */
     color: #333;
     padding: 20px 0;
+    text-align: center; /* Ensures everything inside the footer is centered */
 }
+
 footer p {
     color: #f7f3f1; /* Light gray text */
     font-size: 14px;
     margin: 0;
 }
 
-.social-icons a {
+/* Center social icons ONLY in the footer */
+.footer .social-icons {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Ensures vertical alignment */
+    margin-top: 10px; /* Add spacing above icons */
+}
+
+/* Social Icons */
+.footer .social-icons a {
     color: #b1b1b1;
     font-size: 20px;
     margin: 0 10px;
     transition: color 0.3s ease-in-out;
+    text-decoration: none;
 }
+
 
 /* Maintain 4:3 Aspect Ratio */
 /* Gallery Item */
