@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Burrata Salad",
+    "Description": "This dish consists of fresh creamy burrata, all organic grilled heirloom tomatoes, balsamic marinated cherry tomatoes, olive oil, and balsamic glaze. Allergens to take note of are; cheese and dairy.",
+    "Price": 68,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Ciliegina Salad",
+    "Description": "This salad consists of fresh organic mezlun greens, ciliegina cheese, cherry tomatoes, cucumber, and mini croissants in balsamic pesto vinaigrette. Allergens to take note of are; cheese, dairy, and gluten.",
+    "Price": 68,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Figs & Nectarine Salad",
+    "Description": "This salad consists of fresh organic mezlun greens, figs, nectarine, brie cheese, crushed walnuts in balsamic vinaigrette. Allergens to take note of are; cheese.",
+    "Price": 68,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  }
+]

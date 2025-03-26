@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Espresso",
+    "Description": "Choice of Beans: Ethiopia / Columbia / Brazil.",
+    "Price": 24,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Macchiato",
+    "Description": "Choice of Beans: Ethiopia / Columbia / Brazil.",
+    "Price": 24,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Piccolo",
+    "Description": "Choice of Beans: Ethiopia / Columbia / Brazil.",
+    "Price": 27,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Cortado",
+    "Description": "Choice of Beans: Ethiopia / Columbia / Brazil.",
+    "Price": 27,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Spanish Cortado",
+    "Description": "Blended.",
+    "Price": 27,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Flat White",
+    "Description": "Choice of Beans: Ethiopia / Columbia / Brazil.",
+    "Price": 34,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Cappuccino",
+    "Description": "Choice of Beans: Ethiopia / Columbia / Brazil.",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Spanish Latte Hot",
+    "Description": "Blended.",
+    "Price": 38,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Latte",
+    "Description": "Choice of Beans: Ethiopia / Columbia / Brazil.",
+    "Price": 34,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Caramel Latte",
+    "Description": "Coffee, Caramel and Sweet Milk.",
+    "Price": 38,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Red Velvet Latte",
+    "Description": "Red Velvet Powder, Coffee and Sweet Milk.",
+    "Price": 38,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Mocha",
+    "Description": "Coffee, Dark Chocolate and Sweet Milk.",
+    "Price": 28,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Matcha",
+    "Description": "Matcha Powder and Fresh Milk / Sweet Milk. Normal - Sweet.",
+    "Price": 34,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Saffron Latte",
+    "Description": "Coffee, Saffron and Sweet Milk.",
+    "Price": 38,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Rose Latte",
+    "Description": "Coffee, Rose Syrup and Sweet Milk.",
+    "Price": 38,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Americano",
+    "Description": "Choice of Beans: Ethiopia / Columbia / Brazil.",
+    "Price": 28,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Hot Chocolate",
+    "Description": "White Mocha.",
+    "Price": 49,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "White Mocha",
+    "Description": "Blended Coffee, White Chocolate Sauce and Sweet Milk.",
+    "Price": 28,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Hot Colocasia",
+    "Description": "Blended Beans.",
+    "Price": 45,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Hot Tiramisu Latte",
+    "Description": "Blended Beans.",
+    "Price": 45,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  }
+]

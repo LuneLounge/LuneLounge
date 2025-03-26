@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Roasted Chicken and Truffle Rigatoni",
+    "price": 75,
+    "image": "image_url_here",
+    "description": "A flavorful combination of roasted chicken and truffle rigatoni."
+  },
+  {
+    "name": "Chicken Risotto",
+    "price": 68,
+    "image": "image_url_here",
+    "description": "This dish consists of organic chicken, risotto, tomato paste, rich chicken stock, peaches, and parmesan crisps. Allergens to take note of are: chicken, dairy and cheese."
+  },
+  {
+    "name": "Pasta Alfredo & Chicken Parmigiana",
+    "price": 75,
+    "image": "image_url_here",
+    "description": "A classic combination of Alfredo pasta and crispy Chicken Parmigiana."
+  },
+  {
+    "name": "Truffle Risotto",
+    "price": 76,
+    "image": "image_url_here",
+    "description": "A creamy risotto with truffles, porcini stock, herbs, and spices topped with parmesan crisps and freshly shaved truffle. Allergens to take note of are: dairy and cheese."
+  },
+  {
+    "name": "Brisket Pacherri & Smoked Cheese Pasta",
+    "price": 85,
+    "image": "image_url_here",
+    "description": "A rich, savory dish featuring brisket, Pacherri pasta, and smoked cheese."
+  },
+  {
+    "name": "Truffle Rigatoni Pasta",
+    "price": 85,
+    "image": "image_url_here",
+    "description": "A luxurious combination of truffles and rigatoni pasta."
+  },
+  {
+    "name": "Deconstructed Pesto & Burrata Lasagna",
+    "price": 75,
+    "image": "image_url_here",
+    "description": "A deconstructed version of lasagna with pesto and creamy burrata."
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Acai Smoothie",
+    "Price": 48,
+    "Currency": "AED",
+    "Description": "Choose up to 3 ingredients from the following options. (Three AED per Extra Topping) 1- Banana 2- Strawberry 3- Pomegranate 4- Blueberry 5- Blackberry 6- Peanut Butter 7- Granola",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Matcha Smoothie",
+    "Price": 45,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Healthy Organic Lune Smoothie",
+    "Price": 38,
+    "Currency": "AED",
+    "Description": "Banana, Strawberry, Blueberry, Coconut milk",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Matcha Strawberry Smoothie",
+    "Price": 48,
+    "Currency": "AED",
+    "Description": "Organic Matcha powder, Strawberry, strawberry syrup, Garnish: Fresh Strawberry",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Smoothie Coconut Matcha",
+    "Price": 40,
+    "Currency": "AED",
+    "Description": "Coconut flakes, vanilla ice cream, milk, matcha",
+    "Image": "image_url_here"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Lemon Grass Tea",
+    "Description": "A refreshing tea made from lemongrass.",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "White Rose Tea",
+    "Description": "A fragrant and delicate tea made from white roses.",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Earl Gray Tea",
+    "Description": "A classic black tea flavored with bergamot.",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Chamomile Tea",
+    "Description": "A soothing herbal tea made from chamomile flowers.",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Green Tea",
+    "Description": "A refreshing and healthy tea made from green tea leaves.",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "English Tea",
+    "Description": "A traditional black tea blend.",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Moroccan Mint Tea",
+    "Description": "A refreshing blend of mint and green tea.",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Ginger Lemon Tea",
+    "Description": "A spicy and tangy blend of ginger and lemon.",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Collada Ice Tea",
+    "Description": "A chilled ice tea with tropical flavors.",
+    "Price": 40,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Red Fruit Ice Tea",
+    "Description": "A fruity and refreshing iced tea made with red fruits.",
+    "Price": 40,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Berries Ice Tea",
+    "Description": "A refreshing iced tea made with mixed berries.",
+    "Price": 40,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Strawberry Ice Tea",
+    "Description": "A sweet and refreshing iced tea made with strawberries.",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Classic Iced Tea",
+    "Description": "A refreshing classic iced tea.",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Peach Ice Tea",
+    "Description": "A sweet and tangy iced tea made with peaches.",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  }
+]

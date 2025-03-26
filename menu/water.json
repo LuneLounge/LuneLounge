@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ginger Ale Britvic",
+    "Price": 15,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Evian Sparkling Water",
+    "Price": 18,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Evian Still Water",
+    "Price": 16,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  }
+]

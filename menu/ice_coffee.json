@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Iced V60 - Signature Lune",
+    "Description": "Origin - Marrakech, Morocco. Flavor Notes - Real Mocha, Chocolatey, Aromatic Flavor and Very Smooth. Roast - Medium to Dark. 100% Arabica Blend.",
+    "Price": 95,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Iced V60",
+    "Description": "Choice of Beans.",
+    "Price": 39,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Iced Chemex",
+    "Description": "Choice of Beans: Ethiopia / Ethiopia Wush Wush, Columbia / Yemen / Indonesia / Panama Geisha.",
+    "Price": 32,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Iced Americano",
+    "Description": "Choice of Beans: Ethiopia / Columbia / Brazil.",
+    "Price": 28,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Iced Spanish Latte",
+    "Description": "Blended.",
+    "Price": 38,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Iced Latte",
+    "Description": "Choice of Beans: Ethiopia / Columbia / Brazil.",
+    "Price": 34,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Iced Saffron Latte",
+    "Description": "Coffee, Saffron and Sweet Milk.",
+    "Price": 38,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Iced Latte Pistachio",
+    "Description": "Coffee, Pistachio Sauce and Sweet Milk.",
+    "Price": 38,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Iced Rose Latte",
+    "Description": "Coffee, Rose Syrup and Sweet Milk.",
+    "Price": 38,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Iced Caramel Latte",
+    "Description": "Coffee, Caramel and Sweet Milk.",
+    "Price": 38,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Iced Red Velvet",
+    "Description": "Red Velvet Powder, Coffee and Sweet Milk.",
+    "Price": 38,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Iced Mocha",
+    "Description": "Coffee, Dark Chocolate and Sweet Milk.",
+    "Price": 32,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Iced Matcha",
+    "Description": "Matcha Powder and Fresh Milk / Sweet Milk. Normal - Sweet.",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Iced Spanish Cortado",
+    "Description": "Blended.",
+    "Price": 27,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Espresso Tonic",
+    "Description": "Blended Coffee and Soda.",
+    "Price": 45,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Affogato",
+    "Description": "Vanilla Ice Cream and Espresso Shot.",
+    "Price": 45,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Iced Caramel",
+    "Description": "Caramel Syrup and Sweet Milk.",
+    "Price": 38,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Iced White Mocha",
+    "Description": "Blended Coffee, White Chocolate Sauce and Sweet Milk.",
+    "Price": 32,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Cream Espresso",
+    "Description": "Vanilla Ice Cream and Espresso Shot.",
+    "Price": 53,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Salted Vanilla Matcha",
+    "Description": "Vanilla Ice Cream, Vanilla Beans, Salted Vanilla Syrup, Matcha Powder and Fresh Milk.",
+    "Price": 45,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Iced Colocasia",
+    "Description": "Blended Beans.",
+    "Price": 45,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Iced Tiramisu Latte",
+    "Description": "Blended Beans.",
+    "Price": 55,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  }
+]

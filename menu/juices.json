@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Hibiscus",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Hibiscus Nitro",
+    "Price": 40,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "LA-Lune",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Fresh Passion Fruit, Sparkling Water and Barley Water",
+    "Price": 45,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Cascara Mix Berries",
+    "Price": 45,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Sun Shine",
+    "Description": "Fresh Orange, Passion Fruit and Grenadine Syrup",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Cascara",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "V-90",
+    "Description": "Fresh Orange, Passion Fruit",
+    "Price": 59,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Fresh Orange",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Flavored Nitro",
+    "Description": "NITRO - Ice Tea and Cold Brew. Choice of Flavors: Cinnamon/Watermelon/Pineapple /Coconut /Caramel /Chocolate",
+    "Price": 42,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Passion Fruit Margarita",
+    "Description": "Fresh Mint, Fresh Passion Fruit, Wild Mint, Passion Fruit Puree, Lemon Juice",
+    "Price": 38,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Crunchy Chocolate",
+    "Description": "Ice Cream, Chocolate Caramel Sauce, Milk, Crunchy Flakes",
+    "Price": 42,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Colada Ice",
+    "Description": "Ice Cream Coconut",
+    "Price": 40,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Bad Peach",
+    "Description": "Peach, Lemon, Wild Mint",
+    "Price": 39,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Passion Honey",
+    "Description": "Banana, Passion Fruit, Honey, Coconut Milk Blend with Ice",
+    "Price": 40,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Ginger Honey",
+    "Description": "Fresh Ginger, Honey, Lemon Juice",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Raspberry Rose",
+    "Description": "Raspberry, Rose, Raspberry Lemon Juice, Wild Mint, Soda Water",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Peach Billini",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Nitro-Infused Lune",
+    "Description": "Passion Fruit, Raspberry, Peach Fruit, Cold Brew",
+    "Price": 35,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  }
+]

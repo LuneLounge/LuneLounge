@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Passion Fruit Mojito",
+    "Price": 38,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Strawberry Mojito",
+    "Price": 38,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Classic Mojito",
+    "Price": 35,
+    "Currency": "AED",
+    "Description": "A refreshing original mojito with Lemon & Mint mix",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Raspberry Mojito",
+    "Price": 39,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Bubble Gum Mojito",
+    "Price": 38,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "name": "Watermelon Mojito",
+    "Price": 39,
+    "Currency": "AED",
+    "Description": "Watermelon, wild mint, lime juice",
+    "Image": "image_url_here"
+  }
+]

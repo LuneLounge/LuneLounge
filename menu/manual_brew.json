@@ -1,0 +1,51 @@
+[
+  {
+    "Dish Name": "v60-Signature Lune",
+    "Description": "Origin - Marrakech, Morocco. Flavor Notes - Real Mocha, Chocolatey, Aromatic Flavor and Very Smooth. Roast - Medium to Dark 💯Arabica Blend.",
+    "Price": 95,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "Dish Name": "V60",
+    "Description": "Choice of Beans.",
+    "Price": 43,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "Dish Name": "Chemex",
+    "Description": "Choice of Beans.",
+    "Price": 36,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "Dish Name": "Syphon",
+    "Description": "Choice of Beans.",
+    "Price": 34,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "Dish Name": "Aeropress",
+    "Description": "Choice of Beans.",
+    "Price": 39,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "Dish Name": "Cold Brew",
+    "Description": "Ethiopia Wush Wush.",
+    "Price": 38,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  },
+  {
+    "Dish Name": "Kalita Wave",
+    "Description": "Choice of Beans.",
+    "Price": 40,
+    "Currency": "AED",
+    "Image": "image_url_here"
+  }
+]
