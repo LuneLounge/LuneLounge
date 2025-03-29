@@ -7,7 +7,7 @@ const menuData = {
             "Description": "This dish consists of flaky croissants, organic poached egg, smashed avocado, and hollandaise sauce. Allergens to take note of are; eggs, dairy, and gluten.",
             "Price": 58,
             "Currency": "AED",
-            "Image": "LuneLounge/menu_img/breakfast/1.jpg"
+            "Image": "menu_img/breakfast/1.jpg"
           },
           {
             "id": "Breakfast2",
